@@ -1,1 +1,3 @@
-pas.txt
+*.log
+settings.py
+__pycache__/
